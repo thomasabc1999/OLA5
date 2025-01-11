@@ -1,0 +1,1 @@
+"Rscript.exe" "C:\Users\Administrator\Desktop\Miljødata_scrape.R" > "C:\Users\Administrator\Desktop\logfile.txt" 2>&1
