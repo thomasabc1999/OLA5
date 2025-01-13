@@ -265,4 +265,3 @@ regressioner_DST[[1]]$r.squared
 # Drikkevarer og tobak
 # summary(regressioner_DST[[2]])
 
-forbrugsgrupper
